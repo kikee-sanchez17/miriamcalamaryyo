@@ -1,2 +1,3 @@
+hola=True
 def tete():
     ...
